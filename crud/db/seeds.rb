@@ -10,4 +10,4 @@
   Itemm.create!(name: "Item", description: "I am a description.")
 }
 
-itemm = Itemm.create(name: "Kha Banh", description: "Kha banh hay")
+itemm = Itemm.create(name: "Kha Banh", description: "Kha banh hay cuc")
